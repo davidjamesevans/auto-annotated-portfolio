@@ -51,7 +51,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Photos, art direction, writing'
+    title: dj mcerlane
     subtitle: dj mcerlane
     styles:
       self:
