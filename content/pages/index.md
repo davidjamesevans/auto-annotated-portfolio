@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: dj mcerlane
-    subtitle: dj mcerlane
+    subtitle: 'portraits, reportage, events'
     styles:
       self:
         height: auto
