@@ -50,7 +50,7 @@ sections:
         textAlign: center
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: dj mcerlane
     subtitle: 'portraits, reportage, events'
     styles:
