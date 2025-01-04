@@ -49,7 +49,7 @@ sections:
       subtitle:
         textAlign: center
   - elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     title: dj mcerlane
     subtitle: 'portraits, reportage, events'
