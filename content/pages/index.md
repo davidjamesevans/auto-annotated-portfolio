@@ -80,6 +80,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |+
+      London. Solidarity pricing available. davidjamesmcerlane\@gmail.com
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
